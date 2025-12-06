@@ -4,3 +4,6 @@
 [submodule "MarkdownSQLite"]
 	path = MarkdownSQLite
 	url = git@github.com:hunter-hongg/markdown_sqlite
+[submodule "MarkdownFile"]
+	path = MarkdownFile
+	url = git@github.com:hunter-hongg/markdown_file
