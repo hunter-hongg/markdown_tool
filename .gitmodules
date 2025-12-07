@@ -7,3 +7,6 @@
 [submodule "MarkdownFile"]
 	path = MarkdownFile
 	url = git@github.com:hunter-hongg/markdown_file
+[submodule "MainCode"]
+	path = MainCode
+	url = git@github.com:hunter-hongg/markdown_tool_main
